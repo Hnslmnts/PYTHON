@@ -2,7 +2,7 @@
 
 En este curso aprederás a programar en Python.
 
-![](https://github.com/Hnslmnts/PYTHON/blob/main/imagenes/Logo%20python%203.png)
+![Logo Python](https://github.com/Hnslmnts/PYTHON/blob/main/imagenes/Logo%20python%203.png)
 
 ** Requisitos **
 - Python 3.6 o superior
